@@ -1,0 +1,30 @@
+[
+  {
+    "id": "admin_001",
+    "phone": "13800138000",
+    "password": "191ee6ac91907b3f6b8016b39925c6968926e04d0f9c61d40da7f568dd6ae6e7",
+    "nickname": "管理员",
+    "avatar": "/avatars/admin.png",
+    "role": "admin",
+    "status": "active",
+    "email": "admin@example.com",
+    "wechatId": null,
+    "createdAt": "2026-03-28T06:23:01.986Z",
+    "lastLoginAt": null,
+    "updatedAt": "2026-03-28T06:23:01.986Z"
+  },
+  {
+    "id": "user_001",
+    "phone": "13800138001",
+    "password": "e4d2f949a401c04e9cd0bd410e31d6f81b413974151fc458c18d2d186c379219",
+    "nickname": "测试用户",
+    "avatar": "/avatars/default.png",
+    "role": "user",
+    "status": "active",
+    "email": "user@example.com",
+    "wechatId": null,
+    "createdAt": "2026-03-28T06:23:01.986Z",
+    "lastLoginAt": null,
+    "updatedAt": "2026-03-28T06:23:01.986Z"
+  }
+]

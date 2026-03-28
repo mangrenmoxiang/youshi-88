@@ -1,0 +1,68 @@
+[
+  {
+    "id": "product_001",
+    "name": "幼儿园观察记录手册",
+    "description": "专业的幼儿观察记录工具，包含多种观察表格和记录模板，帮助教师系统记录幼儿发展。",
+    "price": 68,
+    "originalPrice": 88,
+    "category": "教学工具",
+    "images": [
+      "/images/product1.jpg"
+    ],
+    "features": [
+      "包含20+种观察表格",
+      "符合《3-6岁儿童学习与发展指南》",
+      "可复印使用",
+      "附赠电子版"
+    ],
+    "isRecommended": true,
+    "createdBy": "admin_001",
+    "status": "active",
+    "createdAt": "2026-03-28T06:23:01.988Z",
+    "updatedAt": "2026-03-28T06:23:01.988Z"
+  },
+  {
+    "id": "product_002",
+    "name": "区域活动材料包",
+    "description": "精心设计的区域活动材料，涵盖语言区、数学区、科学区、美工区等，支持幼儿自主探索。",
+    "price": 299,
+    "originalPrice": 399,
+    "category": "活动材料",
+    "images": [
+      "/images/product2.jpg"
+    ],
+    "features": [
+      "8大区域全覆盖",
+      "安全环保材质",
+      "配套活动方案",
+      "适合3-6岁幼儿"
+    ],
+    "isRecommended": true,
+    "createdBy": "admin_001",
+    "status": "active",
+    "createdAt": "2026-03-28T06:23:01.988Z",
+    "updatedAt": "2026-03-28T06:23:01.988Z"
+  },
+  {
+    "id": "product_003",
+    "name": "家园联系手册",
+    "description": "促进家园沟通的工具手册，包含多种沟通模板和记录表格，帮助建立良好的家园关系。",
+    "price": 35,
+    "originalPrice": 45,
+    "category": "教学工具",
+    "images": [
+      "/images/product3.jpg"
+    ],
+    "features": [
+      "周计划模板",
+      "月反馈表",
+      "成长记录页",
+      "家长意见栏"
+    ],
+    "isRecommended": false,
+    "createdBy": "admin_001",
+    "status": "active",
+    "createdAt": "2026-03-28T06:23:01.988Z",
+    "updatedAt": "2026-03-28T06:23:01.988Z"
+  }
+]

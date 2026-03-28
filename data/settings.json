@@ -1,0 +1,15 @@
+[
+  {
+    "id": "system",
+    "siteName": "幼教专业成长平台",
+    "siteDescription": "专注幼教专业成长，提供优质教育资源",
+    "contactPhone": "400-123-4567",
+    "contactEmail": "support@example.com",
+    "icp": "京ICP备12345678号",
+    "allowRegister": true,
+    "needAudit": false,
+    "maintenanceMode": false,
+    "createdAt": "2026-03-28T06:23:01.988Z",
+    "updatedAt": "2026-03-28T06:23:01.988Z"
+  }
+]
